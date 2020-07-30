@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Just for fun an implementation of yatzy",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,6 @@
   },
   "homepage": "https://github.com/zrrrzzt/yatzy#readme",
   "engines": {
-    "node": ">=14.6.0"
+    "node": ">=14.7.0"
   }
 }
