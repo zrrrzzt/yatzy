@@ -20,5 +20,8 @@
   "homepage": "https://github.com/zrrrzzt/yatzy#readme",
   "engines": {
     "node": ">=14.7.0"
+  },
+  "dependencies": {
+    "secure-shuffle": "2.0.0"
   }
 }
