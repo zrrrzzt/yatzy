@@ -1,0 +1,23 @@
+{
+  "name": "yatzy",
+  "version": "1.0.0",
+  "description": "Just for fun an implementation of yatzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrrrzzt/yatzy.git"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/yatzy/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/yatzy#readme",
+  "engines": {
+    "node": ">=14.6.0"
+  }
+}
