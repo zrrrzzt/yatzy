@@ -2,9 +2,9 @@
 
 # yatzy
 
-Just for fun an implementation of yatzy that will play the game for you... so you don't have to ;-)
+Just for fun an implementation of [yatzy](https://en.wikipedia.org/wiki/Yatzy) that will play the game for you... so you don't have to ;-)
 
-VERY WIP
+VERY WIP starting with the variation "Forced Yatzy"
 
 Requires Node >= 14
 
