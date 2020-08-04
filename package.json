@@ -8,7 +8,8 @@
   },
   "type": "module",
   "scripts": {
-    "test": "standard",
+    "test": "standard && npm audit && ava",
+    "test-offline": "standard && ava",
     "standard-fix": "standard --fix",
     "refresh": "rm -rf node_modules && rm package-lock.json && npm i"
   },
@@ -30,6 +31,7 @@
     "secure-shuffle": "2.0.0"
   },
   "devDependencies": {
+    "ava": "3.11.1",
     "standard": "14.3.4"
   }
 }
