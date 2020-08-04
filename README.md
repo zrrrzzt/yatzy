@@ -8,7 +8,7 @@ VERY WIP starting with the variation "Forced Yatzy"
 
 Requires Node >= 14
 
-# Usage npx
+## Usage npx
 
 Add players separated by space
 
@@ -16,7 +16,17 @@ Add players separated by space
 $ npx yatzy "Ylva Marie" Geir
 ```
 
-# Example
+## Usage global install
+
+```
+$ npm i -g yatzy
+```
+
+```
+$ yatzy "Ylva Marie" Geir
+```
+
+## Example as module
 
 ```JavaScript
 // game.js
