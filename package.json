@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Just for fun an implementation of yatzy",
   "main": "index.js",
+  "bin": {
+    "yatzy": "cli.js"
+  },
   "type": "module",
   "scripts": {
     "test": "standard",
