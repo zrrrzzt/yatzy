@@ -8,11 +8,19 @@ VERY WIP starting with the variation "Forced Yatzy"
 
 Requires Node >= 14
 
+# Usage npx
+
+Add players separated by space
+
+```
+$ npx yatzy "Ylva Marie" Geir
+```
+
 # Example
 
 ```JavaScript
 // game.js
-import createGame from './lib/create-game.js'
+import { createGame } from 'yatzy'
 
 const Game = createGame()
 Game.addPlayer('Ylva Marie')
