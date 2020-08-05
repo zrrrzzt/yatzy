@@ -8,6 +8,5 @@ players.map(player => Game.addPlayer(player))
 
 Game.randomizePlayersOrder()
 
-Game.printPlayerNames()
 Game.play()
 Game.printScoreCard()
