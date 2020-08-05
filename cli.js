@@ -10,3 +10,4 @@ Game.randomizePlayersOrder()
 
 Game.printPlayerNames()
 Game.play()
+Game.printScoreCard()
