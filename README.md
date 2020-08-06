@@ -6,8 +6,6 @@ Just for fun an implementation of [yatzy](https://en.wikipedia.org/wiki/Yatzy) t
 
 VERY WIP starting with the variation "Forced Yatzy"
 
-Requires Node >= 14
-
 ## Usage npx
 
 Add players separated by space
