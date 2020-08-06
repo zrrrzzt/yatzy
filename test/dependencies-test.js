@@ -1,6 +1,4 @@
-import { createRequire } from 'module'
-import test from 'ava'
-const require = createRequire(import.meta.url)
+const test = require('ava')
 const { dependencies, devDependencies } = require('../package.json')
 const dropModules = []
 const isDropped = module => !dropModules.includes(module)

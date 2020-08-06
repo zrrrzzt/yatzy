@@ -1,11 +1,9 @@
-import createDie from './lib/create-die.js'
-import createGame from './lib/create-game.js'
-import createPlayer from './lib/create-player.js'
+const createDie = require('./lib/create-die')
+const createGame = require('./lib/create-game')
+const createPlayer = require('./lib/create-player')
 
-export default createGame
+module.exports = createGame
 
-export {
-  createDie,
-  createGame,
-  createPlayer
-}
+module.exports.createDie = createDie
+module.exports.createGame = createGame
+module.exports.createPlayer = createPlayer

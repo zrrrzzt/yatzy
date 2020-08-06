@@ -28,9 +28,9 @@ $ yatzy "Ylva Marie" Geir
 
 ```JavaScript
 // game.js
-import { createGame } from 'yatzy'
+const yatzy = require('yatzy')
 
-const Game = createGame()
+const Game = yatzy()
 Game.addPlayer('Ylva Marie')
 Game.addPlayer('Geir')
 Game.randomizePlayersOrder()

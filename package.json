@@ -6,7 +6,6 @@
   "bin": {
     "yatzy": "cli.js"
   },
-  "type": "module",
   "scripts": {
     "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",

@@ -1,6 +1,6 @@
-import { createGame } from './index.js'
+const yatzy = require('./index')
 
-const Game = createGame()
+const Game = yatzy()
 Game.addPlayer('Ylva Marie')
 Game.addPlayer('Geir')
 Game.randomizePlayersOrder()
