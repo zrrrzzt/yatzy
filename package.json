@@ -27,7 +27,7 @@
     "node": ">=12.18.3"
   },
   "dependencies": {
-    "secure-shuffle": "2.0.0"
+    "crypto-shuffle": "1.0.1"
   },
   "devDependencies": {
     "ava": "3.11.1",
