@@ -42,6 +42,10 @@ Game.printScoreCard()
 $ node game.js
 ```
 
+## Related
+
+[yatzy-web](https://github.com/zrrrzzt/yatzy-web) this module used in a web version
+
 # Licence
 
 [MIT](LICENSE)
