@@ -7,4 +7,4 @@ Game.randomizePlayersOrder()
 
 Game.play()
 Game.printScoreCard()
-console.log(JSON.stringify(Game.generateGamePlay(), null, 2))
+
