@@ -7,4 +7,3 @@ Game.randomizePlayersOrder()
 
 Game.play()
 Game.printScoreCard()
-
