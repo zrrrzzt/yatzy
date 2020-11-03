@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/yatzy#readme",
   "engines": {
-    "node": ">=12.18.3"
+    "node": ">=12.19.0"
   },
   "dependencies": {
     "crypto-shuffle": "1.0.1"
