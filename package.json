@@ -30,7 +30,7 @@
     "crypto-shuffle": "1.0.1"
   },
   "devDependencies": {
-    "ava": "4.0.0",
+    "ava": "4.1.0",
     "standard": "16.0.4"
   },
   "files": [
