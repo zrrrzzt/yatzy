@@ -28,7 +28,7 @@ $ yatzy "Ylva Marie" Geir
 
 ```JavaScript
 // game.js
-const yatzy = require('yatzy')
+import yatzy from 'yatzy';
 
 const Game = yatzy()
 Game.addPlayer('Ylva Marie')
