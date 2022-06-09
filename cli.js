@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const createGame = require('./lib/create-game')
+import { createGame } from './lib/create-game.js'
 
 const players = process.argv.slice(2)
 const Game = createGame()

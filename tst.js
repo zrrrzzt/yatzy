@@ -1,4 +1,4 @@
-const yatzy = require('./index')
+import yatzy from './index.js'
 
 const Game = yatzy()
 Game.addPlayer('Ylva Marie')
